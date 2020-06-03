@@ -1,0 +1,22 @@
+
+
+body {
+  background-color: #f4eeff;
+  font-family: sans-serif;
+}
+
+hr {
+
+  border-color: #dddddd;
+  border-style: none none dotted none; /* top righ bottom left */
+  border-width: 0 0 8px 0;
+  width: 6%
+}
+
+h1 {
+  color: #ff9595;
+}
+
+h3 {
+  color: #ff9595;
+}
